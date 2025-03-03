@@ -1,0 +1,12 @@
+From clock genes to fitness: Molecular and behavioral rhythms, parental behavior, and reproductive success across a light pollution gradient
+DiDiAlice Coker*, Elisset Poveda*, Jenny Q. Ouyang
+*shared first authorship
+
+Script Descriptions-
+HoSp_figures.R: Code for figures S1, 2, 3
+HoSp_models.R: Code for activity and reproductive models
+HoSp_processing.R: Code for turning raw data into analysis-ready datasets
+HoSp_onsetoffset.R: Code for calculating onset and offset
+
+Data Descriptions-
+
