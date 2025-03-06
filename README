@@ -8,5 +8,5 @@ HoSp_models.R: Code for activity and reproductive models
 HoSp_processing.R: Code for turning raw data into analysis-ready datasets
 HoSp_onsetoffset.R: Code for calculating onset and offset
 
-Data files available through Zenodo [link]
+Datasets available through Zenodo [link]
 
