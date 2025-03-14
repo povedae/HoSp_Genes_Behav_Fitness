@@ -24,7 +24,7 @@ str(hs)
 
 #separate by gene
 bmal <- subset(hs, Gene == "BMAL")
-cry = subset(hs, Gene == "CRY1")
+cry <- subset(hs, Gene == "CRY1")
 per2 <- subset(hs, Gene == "PER2")
 per3 <- subset(hs, Gene == "PER3")
 
