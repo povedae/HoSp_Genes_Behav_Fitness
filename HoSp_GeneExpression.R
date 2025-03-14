@@ -17,7 +17,7 @@ setwd("")
 
 
 #Load data
-hs <- read.csv("~/PSY706/HW6/hs.csv")
+hs <- read.csv("")
 
 #look at data
 str(hs)
