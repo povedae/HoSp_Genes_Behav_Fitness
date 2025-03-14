@@ -8,7 +8,6 @@ library(plotrix)
 
 #for circadian rhythm 
 library(circacompare)
-library(cosinor)
 
 
 #Load working directory 
