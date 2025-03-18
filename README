@@ -8,6 +8,6 @@ HoSp_models.R: Code for activity and reproductive models
 HoSp_processing.R: Code for turning raw data into analysis-ready datasets
 HoSp_onsetoffset.R: Code for calculating onset and offset
 HoSp_GeneExpression.R: Code for quantifying circadian gene expression
-
+HoSp_GeneXOnset Interaction.R: Code for calculating activity onset and gene expression
 Datasets available through Zenodo [link]
 
